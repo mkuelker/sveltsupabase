@@ -9,7 +9,7 @@
 <main class="min-h-screen bg-[#0e1a2b] text-white p-6 flex gap-4">
 	<!-- Sidebar -->
 	<aside class="w-56 bg-[#13233a] p-4 rounded-lg">
-		<h2 class="text-lg font-bold mb-4">Nonsense Panel</h2>
+		<h1 class="text-lg font-bold mb-4">Data Portal</h1>
 		<ul class="space-y-2">
 			{#each ['Outside Chaos', 'Mood Beams', 'Peeping Orbs', 'Wi-Fi Prayers', 'Button Mashing Machines'] as item}
 				<li>
